@@ -1,9 +1,6 @@
 #ifndef __LOCAL_H__
 #define __LOCAL_H__
 
-// 1180414 Yazan Daibes
-// 1181557 Kareen Karam 
-// 1180424 Omar Qattosh
 
 /*
  * Common header file for Message Queue Example
