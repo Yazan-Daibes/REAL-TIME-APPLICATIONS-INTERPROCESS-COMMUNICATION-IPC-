@@ -1,6 +1,4 @@
-// 1180414 Yazan Daibes
-// 1181557 Kareen Karam
-// 1180424 Omar Qattosh
+
 
 #include "local.h"
 
